@@ -7,13 +7,13 @@
 
 ## What I've built
 
-**[Deltalift](https://www.deltalift.cc)** · [App Store](https://apps.apple.com/us/app/deltalift-gym-rank-up/id6779003925) · [Google Play](https://play.google.com/store/apps/details?id=com.gym.analysis)
+**[Deltalift](https://www.deltalift.cc)** · [App Store](https://apps.apple.com/us/app/deltalift-gym-rank-up/id6779003925) · [Google Play](https://play.google.com/store/apps/details?id=com.gym.analysis)<br>
 A strength tracker I designed and built alone and shipped to both stores. Every muscle group earns its own rank from your real lifts and shows up on an anatomical heatmap. 327+ exercises with their own artwork, a 7-tier rank system, 99 XP levels, real progression charts. Offline-first, no ads, no trackers. One Flutter codebase, Supabase underneath, Firebase analytics. Hundreds of hours: product, design, code, releases, analytics, support.
 
-**TrustYou**
+**TrustYou**<br>
 Full-stack on a React Native app built for two very different users at once, a calm side for the parent and a playful one for the child, in one codebase. The mobile app in React Native and Expo, the Firebase Cloud Functions behind it, the docs that hold them together, and the unglamorous work that keeps an app shippable: SDK and OS-target upgrades, native module migrations, release pipelines.
 
-**[Novanthe AB](https://www.novanthe.com)**
+**[Novanthe AB](https://www.novanthe.com)**<br>
 My software studio in Sweden. Apps, web products, AI and automation, business systems, the cloud they run on. Specified in writing, one price, handed over completely.
 
 ## Where I'm going
