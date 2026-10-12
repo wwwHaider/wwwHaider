@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="banner.svg" alt="Haider Ali. Fullstack engineer. Deltalift. TrustYou. Novanthe AB." width="100%">
-</p>
-
-**Fullstack engineer. Deltalift. TrustYou. Novanthe AB.**<br>
-**Heading into Firmware. Embedded systems. Studying at Linköping University!**
-
 ## What I've built
 
 **[Deltalift](https://www.deltalift.cc)** · [App Store](https://apps.apple.com/us/app/deltalift-gym-rank-up/id6779003925) · [Google Play](https://play.google.com/store/apps/details?id=com.gym.analysis)<br>
